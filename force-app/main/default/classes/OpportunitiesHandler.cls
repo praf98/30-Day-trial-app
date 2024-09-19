@@ -1,5 +1,5 @@
 public class OpportunitiesHandler 
-{    //for insert
+{    //for insert changes are made from git hub
     public static void oppHandlerMethodInsert(list<Opportunity>opplist)
     {   
         set<id>accId=new set<id>();
